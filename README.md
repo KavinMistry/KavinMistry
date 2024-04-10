@@ -1,6 +1,6 @@
 ### Hi, I'm Kavin Mistry 👋
 
-- 🔭 I’m currently working on a Terminal based all in one java calculator
-- 🌱 I’m currently learning Java, javascript, html and css
-- 🤔 I'm looking for help with a Java login system
-- 📫 How to reach me: Email - minekavincraft@gmail.com
+- 🔭 I’m currently working on a minecraft plugins
+- 🌱 I’m currently learning Java
+- 🤔 I'm looking for help with Bukkit plugin development
+- 📫 Email - minekavincraft@gmail.com
