@@ -1,6 +1,6 @@
 ### Hi, I'm Kavin Mistry 👋
 
-- 🔭 I’m currently working on a minecraft plugins
-- 🌱 I’m currently learning Java
-- 🤔 I'm looking for help with Bukkit plugin development
+- 🔭 I’m currently working on a abosolutely nothing
+- 🌱 I’m currently learning nothing
+- 🤔 I'm not looking for help
 - 📫 Email - minekavincraft@gmail.com
